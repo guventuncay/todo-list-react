@@ -1,6 +1,6 @@
 # Simple To-Do List React App
 
-You can access app directly
+Access app directly
 [http://guven-tuncay-todo-react.surge.sh/]
 
 ## Run App
